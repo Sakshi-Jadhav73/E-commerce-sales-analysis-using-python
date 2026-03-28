@@ -30,6 +30,3 @@ The main objectives are:
 - **Plotly** – Interactive visualizations  
 - **Jupyter Notebook** – Interactive coding environment
 
-an also create a **polished GitHub-ready version with badges and a “Live Dashboard Preview” section** for extra points.  
-
-Do you want me to do that?
